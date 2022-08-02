@@ -1,2 +1,2 @@
 # beike_study
-Studying by beike in summer holiday
+Teaching by beike in summer holiday
